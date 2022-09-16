@@ -1,0 +1,32 @@
+body{
+    background: #c9c4c4;
+
+}
+
+#banner{
+    width: 100%;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    background: #c9c4c4;
+}
+
+ul li::marker{
+content:"";
+
+}
+.lista{
+display: inline-block;
+}
+.largura{
+ width: 180px;
+ float: left;
+ background: red;   
+}
+.largura1{
+    width: 180px;
+    float: left;
+    background: green;   
+   }
